@@ -7,4 +7,4 @@ This library allows you to create a Server-Sent Event (SSE) connection and recei
 ## Installation
 
 ```bash
-npm install hungtrasse
+npm install hungtransse
